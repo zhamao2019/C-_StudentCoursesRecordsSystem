@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{85DCB4FD-AD98-432C-99EB-D2C439257BF5}|">
+  <MonoDevelop.Ide.ItemProperties.Lab_2204 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentRecordModel.edmx">
+    <Files>
+      <File FileName="ACMasterPage.master.cs" Line="1" Column="1" />
+      <File FileName="ACMasterPage.master" />
+      <File FileName="AddCourses.aspx" />
+      <File FileName="AddCourses.aspx.cs" />
+      <File FileName="AddStudent.aspx" />
+      <File FileName="AddStudent.aspx.cs" />
+      <File FileName="Default.aspx.cs" />
+      <File FileName="App_Code/BasePage.cs" />
+      <File FileName="Course.cs" />
+      <File FileName="Student.cs" Line="1" Column="1" />
+      <File FileName="AcademicRecord.cs" />
+      <File FileName="StudentRecordModel.Context.tt" Line="1" Column="1" />
+      <File FileName="StudentRecordModel.Context.cs" Line="1" Column="1" />
+      <File FileName="StudentRecordModel.edmx.diagram" Line="1" Column="1" />
+      <File FileName="StudentRecordModel.tt" Line="1" Column="1" />
+      <File FileName="StudentRecordModel.edmx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab 4" expanded="True" selected="True">
+            <Node name="Lab 4" expanded="True">
+              <Node name="App_Code" expanded="True" />
+              <Node name="ACMasterPage.master" expanded="True" />
+              <Node name="AddCourses.aspx" expanded="True" />
+              <Node name="AddStudent.aspx" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="StudentRecordModel.edmx" expanded="True">
+                <Node name="StudentRecordModel.tt" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
